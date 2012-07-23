@@ -15,6 +15,7 @@ public class ProcessResult implements  Serializable{
      * 业务处理是否成功
      */
     private boolean success;
+    
     /**
      * 业务处理信息
      */
