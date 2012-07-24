@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.cuinfo.common</groupId>
-  <artifactId>cuinfo.common</artifactId>
+  <artifactId>org.cuinfo.common</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
